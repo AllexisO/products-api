@@ -1,0 +1,17 @@
+# Folders
+node_modules/
+npm-debug.log
+.env
+
+# Logs
+logs
+*.log
+
+# Cache
+.cache/
+dist/
+build/
+
+# System Files
+.DS_Store
+Thumbs.db
